@@ -1,6 +1,3 @@
-# Introduction
-
-## Basic Infomation
 
 * Personal id: Heli / Heli-Lab / heli_lab / heli-lab etc...
 * English Name: Heli Robert
@@ -20,5 +17,3 @@
 
 ## Contact
 * E-mail: heli_lab@foxmail.com
-
-
