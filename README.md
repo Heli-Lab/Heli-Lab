@@ -2,19 +2,20 @@
 
 ## Basic Infomation
 
-* Personal id: Heli-Lab / heli_lab / heli-lab etc...
+* Personal id: Heli / Heli-Lab / heli_lab / heli-lab etc...
 * English Name: Heli Robert
 * Education: Tsinghua University, bachelor of Engineering Physics
 
 ## Programming Skills
-* JavaScript
+* JavaScript (major)
 * Go
 * C (for Embedded System)
 * asp.net
 
 ## Interests
-* FL Studio
+* Digital music composing (with FL Studio)
 * Red Alert 2 (as a mapper)
+* Minecraft
 * Touhou
 
 ## Contact
